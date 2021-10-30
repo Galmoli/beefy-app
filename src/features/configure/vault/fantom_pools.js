@@ -166,11 +166,6 @@ export const fantomPools = [
     withdrawalFee: '0%',
     buyTokenUrl:
       'https://spookyswap.finance/swap?outputCurrency=0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c',
-    stratType: 'StratLP',
-    withdrawalFee: '0%',
-    buyTokenUrl: 'https://spookyswap.finance/swap',
-    addLiquidityUrl:
-      'https://spookyswap.finance/add/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/0x3129662808bEC728a27Ab6a6b9AFd3cBacA8A43c',
   },
   {
     id: 'beets-guqin-qi-2',
